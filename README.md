@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 <br>
 
 ### ◻ ACTIVITY & SOLVED
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon1&show_icons=true&hide=stars)
-
+![yoon1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoon1&show_icons=true&hide=stars)
+</br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/yoon0?theme=forest)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=afternoon)](https://solved.ac/afternoon)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yoon0)](https://github.com/KnlnKS/leetcode-stats)
 
 </br>
 HackerRank Badges: </br>
