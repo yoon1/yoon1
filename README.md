@@ -27,6 +27,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=4EA94B"/>
     <br>
+    <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
     <br>
