@@ -32,15 +32,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
     <br>
   </div>
-
   <br>
   
   <div>
     <h3>ACTIVITY & SOLVED</h3>
       <img width="434" src="https://github-readme-stats.vercel.app/api?username=yoon1&show_icons=true&hide=stars&theme=dark" />
       <br>
-      <a link="https://leetcode.com/yoon0"><img width="434" src="https://leetcard.jacoblin.cool/yoon0?theme=forest" /></a>  
+      <a href="https://leetcode.com/yoon0"><img width="434" src="https://leetcard.jacoblin.cool/yoon0?theme=forest" /></a>  
       <br>
-      <a link="https://solved.ac/afternoon"><img width="434" src="http://mazassumnida.wtf/api/generate_badge?boj=afternoon" /></a>
+      <a href="https://solved.ac/afternoon"><img width="434" src="http://mazassumnida.wtf/api/generate_badge?boj=afternoon" /></a>
   </div>
 </div>
