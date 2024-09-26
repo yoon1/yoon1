@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <h3>ACTIVITY & SOLVED</h3>
       <img width="434" src="https://github-readme-stats.vercel.app/api?username=yoon1&show_icons=true&hide=stars&theme=dark" />
       <br>
-      <a href="https://leetcode.com/yoon0"><img width="434" src="https://leetcard.jacoblin.cool/yoon0?ext=activity&tmeme=forest" /></a>  
+      <a href="https://leetcode.com/yoon0"><img width="434" src="https://leetcard.jacoblin.cool/lapor?ext=heatmap&tmeme=forest" /></a>  
       <br>
       <a href="https://solved.ac/afternoon"><img width="434" src="http://mazassumnida.wtf/api/generate_badge?boj=afternoon" /></a>
   </div>
