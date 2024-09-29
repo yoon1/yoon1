@@ -17,14 +17,14 @@ Here are some ideas to get you started:
   <div>
     <h3>SKILL</h3>
     <img src="https://img.shields.io/badge/Go-47B5D8?style=flat&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MariaDB-002F43?style=flat&logo=mariadb&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=4EA94B"/>
     <br>
     <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
