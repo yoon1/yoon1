@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">  
-  <img width="434" src="https://capsule-render.vercel.app/api?type=rect&text=yoon&fontColor=ffffff&color=0:FFD151,100:FFAE03&stroke=ffffff&strokeWidth=2&animation=fadeIn">
+  <img width="434" src="https://capsule-render.vercel.app/api?type=waving&text=yoon&fontColor=ffffff&color=0:8DC584,100:4CB5CB&stroke=ffffff&strokeWidth=2&animation=fadeIn">
   <div>
     <h3>SKILL</h3>
     <img src="https://img.shields.io/badge/Go-47B5D8?style=flat&logo=go&logoColor=white"/>
